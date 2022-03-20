@@ -1,2 +1,2 @@
-# onebitfood
-Treinamento do site Fullstack OneBitFood da OneBitCOde
+# OneBitFood
+Project developed in the training week of OneBitCode
